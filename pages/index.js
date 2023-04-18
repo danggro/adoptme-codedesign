@@ -5,10 +5,14 @@ import Footer from "@/components/Footer/Footer";
 import Header from "@/components/Header";
 import SectionMission from "@/components/Mission/SectionMission";
 import SectionStories from "@/components/Stories/SectionStories";
+import Head from "next/head";
 
 export default function Home() {
   return (
     <>
+      <Head>
+        <title>Adoptme | Adopt Pet</title>
+      </Head>
       <Header />
       <SectionMission />
       <SectionCommunity />
