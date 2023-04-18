@@ -15,9 +15,9 @@ export default function SectionMission() {
           </div>
           <div className="w-6/12 mb-2">
             <TextDesc>
-              You need to see some pets in Adoptme. We have the friend that's
-              you need to have. We also have the equipment you need to take care
-              of it.
+              You need to see some pets in Adoptme. We have the friend
+              that&apos;s you need to have. We also have the equipment you need
+              to take care of it.
             </TextDesc>
           </div>
         </div>
